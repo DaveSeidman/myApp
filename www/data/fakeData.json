@@ -1,0 +1,17 @@
+{"markers": [
+		{
+			"point":new GLatLng(40.6593282,-73.9880755), 
+			"title":"Lawrence Library",
+			"information": "Linux users group meets second Wednesday of each month."
+		},
+		{
+			"point":new GLatLng(40.6542683,-73.9805964),
+			"title":"Hamilton Library",
+			"information": "Linux users can meet the first Tuesday of the month to work out harward and configuration issues."
+		},
+		{
+			"point":new GLatLng(40.6664439,-73.9822701),
+			"title":"Applebees",
+			"information": "Some of us go there after the main LUGip meeting, drink brews, and talk."
+		}
+] }
